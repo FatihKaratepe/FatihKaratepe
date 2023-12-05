@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-✨ My name is **Mehmet Fatih Karatepe**, I'm a Frontend Developer 💻 from Turkey 🇹🇷 <br>
+✨ My name is **Fatih Karatepe**, I'm a Frontend Developer 💻 from Turkey 🇹🇷 <br>
 
 
 ## 📌 GitHub Stats and Top Languages
