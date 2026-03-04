@@ -112,10 +112,4 @@
 <!-- Firebase -->
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="firebase" width="40" height="40"/></a>
 </p>
-
-<p align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FatihKaratepe&theme=dark&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=521)](https://git.io/streak-stats)
-
-</p>
 </div>
