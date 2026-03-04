@@ -115,10 +115,7 @@
 
 <p align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=FatihKaratepe&theme=gotham&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=FatihKaratepe&theme=gotham&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FatihKaratepe&theme=gotham&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FatihKaratepe&theme=dark&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=521)](https://git.io/streak-stats)
 
 </p>
 </div>
